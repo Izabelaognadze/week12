@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">week12</string>
+    <string name="open_nav">Open Navigation</string>
+    <string name="close_nav">Close Navigation</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="contacts">Contacts</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Log out</string>
+    <string name="email">isabella.ognadze@gmail.com</string>
+    <string name="name">Izabela Ognadze</string>
+    <string name="about_fragment">Starbucks Corporation is an American multinational chain of coffeehouses and roastery reserves headquartered in Seattle, Washington. It is the worlds largest coffeehouse chain.As of November 2021, the company had 33,833 stores in 80 countries, 15,444 of which were located in the United States. Out of Starbucks U.S.-based stores, over 8,900 are company-operated, while the remainder are licensed.</string>
+    <string name="about_second_fragment">Starbucks was founded in 1971 by Jerry Baldwin, Zev Siegl, and Gordon Bowker at Seattles Pike Place Market. During the early 1980s, they sold the company to Howard Schultz who – after a business trip to Milan, Italy – decided to convert the coffee bean store into a coffee shop serving espresso-based drinks. As chief executive officer from 1986 to 2000, Schultzs first tenure led to an aggressive expansion of the franchise, first in Seattle, then across the West Coast of the United States</string>
+    <string name="home_header">Find your adventure</string>
+    <string name="home_text">Starbucks Summer Game is here! Play for your chance to win—more than 10 million prizes are up for grabs!</string>
+    <string name="home_text_second">Hooray for our newest cooler-than-cool Chocolate Java Mint Frappuccino blended beverage</string>
+    <string name="contact_closed">Currently closed!</string>
+    <string name="contact_need">Need to get in touch?</string>
+    <string name="contact_customer">Our customer care team is here to save the day!Our customer care team is here to save the day!</string>
+    <string name="contact_hours">Customer Service Hours</string>
+    <string name="contact_times">4:00am–10:00pm</string>
+    <string name="contact_chat">Chat</string>
+    <string name="contact_phone">PHONE</string>
+    <string name="contact_times_phone">5:00am–8:00pm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
